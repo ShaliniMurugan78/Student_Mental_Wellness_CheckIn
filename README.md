@@ -16,15 +16,5 @@ Instead of just building another dashboard, I focused on crafting a beautiful, s
 • Rule-based AI chat companion for gentle support
 • Fully frontend + privacy-first (no data leaves the device)
 
-My Learning Journey with Adya
-
-Working on Adya AI was a great hands-on experience where I:
-• Rapidly prototyped full-stack-like apps with frontend-only architecture
-• Learned real-world debugging & build workflows
-• Optimized features to run efficiently with minimal cloud usage
-• Practiced transforming ideas → UI → working product
-• Explored deployment concepts using Google Cloud
-
-It felt less like a tutorial and more like building an actual product from scratch.
 
 
